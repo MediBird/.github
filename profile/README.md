@@ -1,12 +1,14 @@
-## Hi there 👋
+## 케어링노트 (Caring Note)
 
-<!--
+비영리 조직 소속 약사님들이 내담자와의 복약 상담을 체계적으로 기록하고 관리할 수 있도록 돕는 웹 서비스입니다. 
+상담 일정 확인부터 음성 녹음을 통한 자동 상담 기록(STT 변환), 상담 중재 및 의약물 복용 내역 작성, 내담자 정보와 상담 이력 관리까지 복약 상담의 전 과정을 지원합니다.
+또한 상담약사/기록보조자/관리자 전용 기능과 권한 관리 기능을 통해 상담 품질과 데이터 보안을 강화하였으며, 모든 내담자와 상담 기록을 한눈에 파악하고 효율적으로 관리할 수 있도록 설계되었습니다.
+케어링노트는 약사님들의 상담 업무에 실질적인 편의성과 신뢰를 더하는 것을 목표로 합니다.
 
-**Here are some ideas to get you started:**
+### 서비스 사용 가이드
+- [케어링노트 사용 가이드 바로가기] ([https://yoonyounglee.notion.site/19a4b68481fb802db0fef7bbf9e35afb?pvs=4])
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Sponsored by
+- 늘픔가치
+- 모두의 연구소
+- 카카오임팩트
